@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = andrea.soggia@gmail.com
+	name = Andrea Soggia
